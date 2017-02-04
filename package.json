@@ -1,0 +1,12 @@
+{
+  "name": "finger-file-cli",
+  "version": "0.0.2",
+  "author": "Ailun She",
+  "license": "MIT",
+  "bin": "./bin/index.js",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fingerprinting": "^1.0.1"
+  }
+}
